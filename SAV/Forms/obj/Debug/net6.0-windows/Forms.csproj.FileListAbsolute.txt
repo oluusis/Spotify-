@@ -1,0 +1,294 @@
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.MainMenu.resources
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.ArtistListWindow.resources
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.deps.json
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.runtimeconfig.json
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.exe
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.pdb
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Oliver Hruban\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.deps.json
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.runtimeconfig.json
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.exe
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\bin\Debug\net6.0-windows\SAV.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.MainMenu.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.ArtistListWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.AlbumListWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.SongLisWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditArtistForms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.PlaySound.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.SongListViewPlay.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV - for my customers\SAV\Forms\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.deps.json
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.runtimeconfig.json
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.exe
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditArtistForms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.MainMenu.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.PlaySound.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.SongListViewPlay.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.AlbumListWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.ArtistListWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.SongLisWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.deps.json
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.runtimeconfig.json
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.exe
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.exe
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Forms.pdb
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.dll
+X:\PRO\SAV\SAV\Forms\bin\Debug\net6.0-windows\SAV.pdb
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditArtistForms.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.MainMenu.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.PlaySound.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.SongListViewPlay.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.AlbumListWindow.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.ArtistListWindow.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.SongLisWindow.resources
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.dll
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.pdb
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+X:\PRO\SAV\SAV\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\SAV.deps.json
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\SAV.runtimeconfig.json
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\SAV.exe
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\SAV.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\bin\Debug\net6.0-windows\SAV.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditAlbumForms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditArtistForms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.MainMenu.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.PlaySound.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.Media_Player.SongListViewPlay.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.AlbumListWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Form_menu.ArtistListWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.SongLisWindow.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Oliver Hruban\Programming\C#\SAV updated\SAV\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditAlbumForms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditSongFroms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.EditForrms.EditRoleForms.resources
+C:\Users\Oliver Hruban\Programming\C#\SAV\SAV\Forms\obj\Debug\net6.0-windows\Forms.Views.RoleListWindow.resources

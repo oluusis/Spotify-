@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EditForrms\EditAlbumForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditForrms\EditArtistForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditForrms\EditRoleForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditForrms\EditSongFroms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Media Player\PlaySound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Media Player\SongListViewPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\AlbumListWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RoleListWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SongLisWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
